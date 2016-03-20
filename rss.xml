@@ -4,7 +4,7 @@
         <description><![CDATA[lar3n.com]]></description>
         <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 12:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 12:49:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to lar3n]]></title>
@@ -12,6 +12,13 @@
             <link>https://unsplash.com/photos/9Thbhn-hbsk</link>
             <guid isPermaLink="false">919b4fb9-14da-4e0b-8809-f4703c60f82f</guid>
             <pubDate>Sun, 20 Mar 2016 12:47:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biography]]></title>
+            <description><![CDATA[<h1>Biography</h1>]]></description>
+            <link>https://thegrid.ai/lar3n/biography/index.html</link>
+            <guid isPermaLink="false">76303857-1748-4f18-a5bf-ac581572d281</guid>
+            <pubDate>Sun, 20 Mar 2016 12:49:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
