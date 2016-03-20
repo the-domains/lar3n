@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T22:36:36.961Z'
-dateModified: '2016-03-20T22:36:29.044Z'
+datePublished: '2016-03-20T22:38:21.141Z'
+dateModified: '2016-03-20T22:38:15.827Z'
 title: About
 author: []
 sourcePath: _posts/2016-03-20-discography.md
