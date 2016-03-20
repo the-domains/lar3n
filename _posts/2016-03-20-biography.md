@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: BLA BLA BLA BLA
-datePublished: '2016-03-20T22:54:47.533Z'
-dateModified: '2016-03-20T22:53:49.279Z'
+datePublished: '2016-03-20T23:02:47.806Z'
+dateModified: '2016-03-20T23:02:40.529Z'
 title: Biography
 author: []
 sourcePath: _posts/2016-03-20-biography.md
@@ -24,4 +24,4 @@ _type: WebPage
 ---
 # Biography
 
-BLA BLA BLA BLA
+This page is about me!
