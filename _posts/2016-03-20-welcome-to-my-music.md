@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Home Page
-datePublished: '2016-03-20T12:45:44.704Z'
-dateModified: '2016-03-20T12:45:27.564Z'
+datePublished: '2016-03-20T12:46:20.106Z'
+dateModified: '2016-03-20T12:45:52.164Z'
 title: Welcome to lar3n
 author: []
 sourcePath: _posts/2016-03-20-welcome-to-my-music.md
