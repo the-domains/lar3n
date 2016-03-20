@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://unsplash.com/photos/9Thbhn-hbsk'
 inLanguage: null
 starred: true
 keywords: []
-description: Home Page
-datePublished: '2016-03-20T12:47:52.336Z'
-dateModified: '2016-03-20T12:47:38.723Z'
+description: ''
+datePublished: '2016-03-20T12:52:03.293Z'
+dateModified: '2016-03-20T12:48:31.865Z'
 title: Welcome to lar3n
 author: []
 sourcePath: _posts/2016-03-20-welcome-to-my-music.md
