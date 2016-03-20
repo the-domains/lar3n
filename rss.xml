@@ -4,7 +4,7 @@
         <description><![CDATA[lar3n Music]]></description>
         <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 23:10:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to lar3n]]></title>
@@ -12,13 +12,6 @@
             <link>https://unsplash.com/photos/9Thbhn-hbsk</link>
             <guid isPermaLink="false">919b4fb9-14da-4e0b-8809-f4703c60f82f</guid>
             <pubDate>Sun, 20 Mar 2016 23:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discography]]></title>
-            <description><![CDATA[<article><h1>Discography</h1><p>Sagitarial Moon is my first production that made it to my fans and you can enjoy directly on my soundcloud</p></article>]]></description>
-            <link>https://thegrid.ai/lar3n/discography/index.html</link>
-            <guid isPermaLink="false">a3b8c3d3-064c-407b-a2d5-4246f1e92a98</guid>
-            <pubDate>Sun, 20 Mar 2016 22:54:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
