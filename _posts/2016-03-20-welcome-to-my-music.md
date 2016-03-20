@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home Page
-datePublished: '2016-03-20T12:43:42.520Z'
-dateModified: '2016-03-20T12:42:33.959Z'
-title: Welcome to my music
+datePublished: '2016-03-20T12:45:44.704Z'
+dateModified: '2016-03-20T12:45:27.564Z'
+title: Welcome to lar3n
 author: []
 sourcePath: _posts/2016-03-20-welcome-to-my-music.md
 published: true
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d63739449bef38a1b1ba052ce78eabc094f4ed9c.jpg)
 
-# Welcome to my music
+# Welcome to lar3n
