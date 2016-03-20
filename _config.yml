@@ -1,4 +1,4 @@
-name: lar3n
+name: lar3n Music
 favicon: null
 layout_spectrum: 0.95993
 typography_spectrum: 0.22325
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#121117'
-    - '#d5dfea'
-    - '#363e49'
-    - '#b0c4d8'
-    - '#7794af'
+    - '#000000'
+    - '#949494'
+    - '#ffffff'
+    - '#3b3b3b'
+    - '#4c150b'
   brandStrength: 0.875
-  lightness: 0.21451588673517108
+  lightness: 0.1875
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
