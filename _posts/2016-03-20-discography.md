@@ -5,21 +5,26 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-20T22:38:21.141Z'
-dateModified: '2016-03-20T22:38:15.827Z'
-title: About
+description: Sagitarial Moon is my first production that made it to my fans and you can enjoy directly on my soundcloud
+datePublished: '2016-03-20T22:51:45.534Z'
+dateModified: '2016-03-20T22:38:39.215Z'
 author: []
+title: Discography
 sourcePath: _posts/2016-03-20-discography.md
 published: true
 authors: []
 publisher:
-  name: null
-  domain: null
+  name: soundcloud.com
+  domain: soundcloud.com
   url: null
   favicon: null
 url: discography/index.html
+_context: 'http://schema.org'
 _type: Article
 
 ---
-# About
+# Discography
+
+Sagitarial Moon is my first production that made it to my fans and you can enjoy directly on my soundcloud
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/253154249&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" style=""></iframe>
