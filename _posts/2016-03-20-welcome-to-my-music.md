@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T13:42:52.779Z'
-dateModified: '2016-03-20T13:42:49.813Z'
+datePublished: '2016-03-20T22:39:06.484Z'
+dateModified: '2016-03-20T22:16:42.956Z'
 title: Welcome to lar3n
 author: []
 sourcePath: _posts/2016-03-20-welcome-to-my-music.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: welcome-to-lar3n/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Welcome to lar3n
