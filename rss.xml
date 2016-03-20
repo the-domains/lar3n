@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[lar3n.com]]></title>
         <description><![CDATA[lar3n.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 12:40:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 12:43:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to my music]]></title>
             <description><![CDATA[<article><h1>Welcome to my music</h1><p>Home Page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d63739449bef38a1b1ba052ce78eabc094f4ed9c.jpg"></article>]]></description>
-            <link>https://unsplash.com/photos/9Thbhn-hbsk</link>
+            <link>https://thegrid.ai/lar3n/welcome-to-my-music/index.html</link>
             <guid isPermaLink="false">919b4fb9-14da-4e0b-8809-f4703c60f82f</guid>
-            <pubDate>Sun, 20 Mar 2016 12:40:17 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 12:43:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
