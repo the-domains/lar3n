@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://unsplash.com/photos/9Thbhn-hbsk'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T23:01:44.819Z'
-dateModified: '2016-03-20T23:01:29.354Z'
+datePublished: '2016-03-20T23:06:56.158Z'
+dateModified: '2016-03-20T23:06:52.166Z'
 title: Welcome to lar3n
 author: []
 sourcePath: _posts/2016-03-20-welcome-to-my-music.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome-to-lar3n/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Welcome to lar3n
