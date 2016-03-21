@@ -4,7 +4,7 @@
         <description><![CDATA[lar3n Music]]></description>
         <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 22:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 22:41:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HOME PAGE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lar3n/home-page/index.html</link>
             <guid isPermaLink="false">96fa616c-f254-4b3b-8b3e-0a6470c23d99</guid>
             <pubDate>Mon, 21 Mar 2016 22:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biography ]]></title>
+            <description><![CDATA[<article><h1>Biography </h1><p>This is a page to describe lar3n</p></article>]]></description>
+            <link>https://thegrid.ai/lar3n/biography/index.html</link>
+            <guid isPermaLink="false">95ca9bb5-eb49-462c-8990-92217d6b1951</guid>
+            <pubDate>Mon, 21 Mar 2016 22:41:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
