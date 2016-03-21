@@ -4,21 +4,21 @@
         <description><![CDATA[lar3n Music]]></description>
         <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 23:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 23:50:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Podcasts]]></title>
+            <description><![CDATA[<article><h1>Podcasts</h1><p>List of radioshow links</p></article>]]></description>
+            <link>https://thegrid.ai/lar3n/podcasts/index.html</link>
+            <guid isPermaLink="false">f9482882-f4af-4d42-8182-c6c851a3060e</guid>
+            <pubDate>Mon, 21 Mar 2016 23:50:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Discography ]]></title>
             <description><![CDATA[<article><h1>Discography </h1><p>List of tracks</p></article>]]></description>
             <link>https://thegrid.ai/lar3n/discography/index.html</link>
             <guid isPermaLink="false">864564f8-b186-436d-a27e-60e15ce32126</guid>
             <pubDate>Mon, 21 Mar 2016 23:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcasts]]></title>
-            <description><![CDATA[<article><h1>Podcasts</h1><p>List of radioshow links</p></article>]]></description>
-            <link>https://thegrid.ai/lar3n/podcasts/index.html</link>
-            <guid isPermaLink="false">f9482882-f4af-4d42-8182-c6c851a3060e</guid>
-            <pubDate>Mon, 21 Mar 2016 23:36:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biography ]]></title>
