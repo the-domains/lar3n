@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is a page to describe lar3n
-datePublished: '2016-03-21T22:41:45.392Z'
-dateModified: '2016-03-21T22:41:42.186Z'
+datePublished: '2016-03-21T22:43:31.732Z'
+dateModified: '2016-03-21T22:43:21.089Z'
 title: "Biography\_"
 author: []
 sourcePath: _posts/2016-03-21-biography.md
