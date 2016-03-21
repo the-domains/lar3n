@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T22:34:47.625Z'
-dateModified: '2016-03-21T22:34:29.882Z'
+datePublished: '2016-03-21T22:35:34.097Z'
+dateModified: '2016-03-21T22:35:17.864Z'
 title: "Discography\_"
 author: []
 sourcePath: _posts/2016-03-21-discography.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: discography/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Discography
