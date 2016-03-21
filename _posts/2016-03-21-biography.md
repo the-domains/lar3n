@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-21T22:33:35.291Z'
-dateModified: '2016-03-21T22:32:44.651Z'
+description: This is a page to describe lar3n
+datePublished: '2016-03-21T22:41:45.392Z'
+dateModified: '2016-03-21T22:41:42.186Z'
 title: "Biography\_"
 author: []
 sourcePath: _posts/2016-03-21-biography.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: biography/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Biography 
