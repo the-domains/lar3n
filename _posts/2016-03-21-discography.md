@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/lar3n/sagitarial-moons'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Radio Show: Hear my show live on www.progressivebeats.org every second Thursday of the month at 20:00 GMT/21:00 CET Promo Submission: promos@lar3n.com Booking: bookings@lar3n.com Biography: At the'
-datePublished: '2016-03-21T22:53:58.525Z'
-dateModified: '2016-03-21T22:53:51.349Z'
+datePublished: '2016-03-21T22:55:42.475Z'
+dateModified: '2016-03-21T22:55:40.445Z'
 author:
   - name: lar3n
     url: 'http://soundcloud.com/lar3n'
@@ -52,14 +51,15 @@ app_links:
     namespace: google
     type: ios
 title: Discography
+sourcePath: _posts/2016-03-21-discography.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-21-discography.md
-published: true
+url: discography/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
