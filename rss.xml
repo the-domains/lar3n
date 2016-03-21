@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[lar3n Music]]></title>
         <description><![CDATA[lar3n Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 22:30:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 22:31:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HOME PAGE]]></title>
             <description><![CDATA[<h1>HOME PAGE</h1>]]></description>
-            <link>undefinedhome-page/index.html</link>
+            <link>https://thegrid.ai/lar3n/home-page/index.html</link>
             <guid isPermaLink="false">96fa616c-f254-4b3b-8b3e-0a6470c23d99</guid>
-            <pubDate>Mon, 21 Mar 2016 22:30:42 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 22:31:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
