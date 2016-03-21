@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/progressivebeats_radio/noir-session-by-lar3n-081015?in=lar3n/sets/noir-sessions-on-progressive'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - electronic
   - techno
   - agius
-description: 'At the age of 12, lar3n (Laren Agius) was introduced to the electronic sounds of Kraftwerk and since then his passion to pursue high quality electronic music never left him. After years of spinning records, experimenting with music equipment and styles, he started being noticed and been invited to various clubs around Malta where he had the first opportunity to play to a larger audience.'
-datePublished: '2016-03-21T23:46:25.089Z'
-dateModified: '2016-03-21T23:46:16.736Z'
+description: Noir 001
+datePublished: '2016-03-21T23:48:09.875Z'
+dateModified: '2016-03-21T23:48:06.880Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
@@ -61,15 +60,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Noir Session by Lar3n - 08.10.15 by Progressive Beats Radio
+title: Podcasts
+sourcePath: _posts/2016-03-21-noir-session-by-lar3n-081015-by-progressive-beats-radio.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-21-noir-session-by-lar3n-081015-by-progressive-beats-radio.md
-published: true
+url: podcasts/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
