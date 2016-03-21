@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Radio Show: Hear my show live on www.progressivebeats.org every second Thursday of the month at 20:00 GMT/21:00 CET Promo Submission: promos@lar3n.com Booking: bookings@lar3n.com Biography: At the'
-datePublished: '2016-03-21T23:03:59.332Z'
-dateModified: '2016-03-21T23:03:55.238Z'
+description: 1st Track
+datePublished: '2016-03-21T23:19:58.446Z'
+dateModified: '2016-03-21T23:19:53.093Z'
 author:
   - name: lar3n
     url: 'http://soundcloud.com/lar3n'
