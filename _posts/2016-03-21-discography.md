@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: List of tracks
-datePublished: '2016-03-21T22:58:59.234Z'
-dateModified: '2016-03-21T22:58:14.984Z'
+datePublished: '2016-03-21T23:02:00.195Z'
+dateModified: '2016-03-21T23:01:57.793Z'
 title: "Discography\_"
 author: []
 sourcePath: _posts/2016-03-21-discography.md
@@ -25,4 +25,3 @@ _type: WebPage
 # Discography 
 
 List of tracks
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9852c22-7f3f-47c4-9f99-3ba9732a6fc3.jpg)
