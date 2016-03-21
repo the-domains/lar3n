@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sagitarial Moon is my first production that made it to my fans and you can enjoy directly on my soundcloud
-datePublished: '2016-03-20T23:10:40.959Z'
-dateModified: '2016-03-20T23:10:37.594Z'
+datePublished: '2016-03-21T22:26:55.110Z'
+dateModified: '2016-03-20T23:17:02.672Z'
 author: []
 title: Discography
 sourcePath: _posts/2016-03-20-discography.md
