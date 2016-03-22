@@ -1,7 +1,7 @@
 name: lar3n Music
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.16148
+layout_spectrum: 0
+typography_spectrum: 0.12976
 title: lar3n
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#1f1116'
     - '#929690'
     - '#707070'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  brandStrength: 0.25
+  lightness: 0
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
