@@ -16,8 +16,8 @@ keywords:
   - techno
   - agius
 description: Noir Session 001
-datePublished: '2016-03-22T00:13:23.824Z'
-dateModified: '2016-03-22T00:13:01.140Z'
+datePublished: '2016-03-22T00:14:55.950Z'
+dateModified: '2016-03-22T00:13:34.122Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
