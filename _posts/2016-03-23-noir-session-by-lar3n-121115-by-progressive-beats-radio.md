@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Noir Session 002
-datePublished: '2016-03-23T11:20:06.065Z'
-dateModified: '2016-03-23T11:09:02.122Z'
+datePublished: '2016-03-23T11:22:26.665Z'
+dateModified: '2016-03-23T11:20:08.836Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
@@ -50,7 +50,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Noir Session 002 on Progressive Beats Radio
+title: Podcasts
 sourcePath: _posts/2016-03-23-noir-session-by-lar3n-121115-by-progressive-beats-radio.md
 published: true
 authors: []
@@ -64,7 +64,7 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-# Noir Session 002 on Progressive Beats Radio
+## Noir Session 002 on Progressive Beats Radio
 
 _Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio_
 
