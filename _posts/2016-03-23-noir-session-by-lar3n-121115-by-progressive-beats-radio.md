@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio
-datePublished: '2016-03-23T11:31:23.327Z'
-dateModified: '2016-03-23T11:31:15.074Z'
+datePublished: '2016-03-23T11:39:05.015Z'
+dateModified: '2016-03-23T11:38:36.281Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
@@ -64,6 +64,8 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5499647b-e86b-4183-8925-794348f36840.jpg)
+
 ## Noir Session 002 on Progressive Beats Radio
 
 _Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio_
