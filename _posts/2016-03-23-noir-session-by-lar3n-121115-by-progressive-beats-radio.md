@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio
-datePublished: '2016-03-23T11:39:05.015Z'
-dateModified: '2016-03-23T11:38:36.281Z'
+datePublished: '2016-03-23T11:41:26.673Z'
+dateModified: '2016-03-23T11:39:14.503Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
