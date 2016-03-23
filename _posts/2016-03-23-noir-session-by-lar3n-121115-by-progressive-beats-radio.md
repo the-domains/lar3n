@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Noir Session 002
-datePublished: '2016-03-23T09:53:38.180Z'
-dateModified: '2016-03-23T09:49:56.875Z'
+datePublished: '2016-03-23T10:47:29.077Z'
+dateModified: '2016-03-23T10:47:19.467Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
