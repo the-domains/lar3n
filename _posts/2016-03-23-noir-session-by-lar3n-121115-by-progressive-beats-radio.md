@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Noir Session 002
-datePublished: '2016-03-23T11:22:26.665Z'
-dateModified: '2016-03-23T11:20:08.836Z'
+description: Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio
+datePublished: '2016-03-23T11:31:23.327Z'
+dateModified: '2016-03-23T11:31:15.074Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
