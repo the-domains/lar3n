@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio
-datePublished: '2016-03-23T11:41:26.673Z'
-dateModified: '2016-03-23T11:39:14.503Z'
+datePublished: '2016-03-23T11:44:21.502Z'
+dateModified: '2016-03-23T11:44:17.136Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
@@ -64,10 +64,8 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5499647b-e86b-4183-8925-794348f36840.jpg)
-
 ## Noir Session 002 on Progressive Beats Radio
 
-_Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio_
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F233269171%26show_artwork%3Dtrue%26in%3Dlar3n%252Fsets%252Fnoir-sessions-on-progressive&amp;url=https%3A%2F%2Fsoundcloud.com%2Fprogressivebeats_radio%2Fnoir-session-by-lar3n-121115%3Fin%3Dlar3n%2Fsets%2Fnoir-sessions-on-progressive&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000136297994-y2tmdo-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+_Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio_
