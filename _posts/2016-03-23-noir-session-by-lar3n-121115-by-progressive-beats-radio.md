@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/progressivebeats_radio/noir-session-by-lar3n-121115?in=lar3n/sets/noir-sessions-on-progressive'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Welcome to the world of unlimited progressive music. Premium quality sound. Weekly shows & live events. The hottest DJs, producers & record labels worldwide. This is Progressive Beats Radio! Contact'
-datePublished: '2016-03-23T09:10:01.705Z'
-dateModified: '2016-03-23T09:09:26.998Z'
+description: Noir Session 002
+datePublished: '2016-03-23T09:23:26.232Z'
+dateModified: '2016-03-23T09:22:58.869Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
@@ -51,17 +50,20 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Noir Session by Lar3n - 12.11.15 by Progressive Beats Radio
+title: Podcasts
+sourcePath: _posts/2016-03-23-noir-session-by-lar3n-121115-by-progressive-beats-radio.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-23-noir-session-by-lar3n-121115-by-progressive-beats-radio.md
-published: true
+url: podcasts/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
 ---
+## Noir Session 002 on Progressive Beats Radio
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F233269171%26show_artwork%3Dtrue%26in%3Dlar3n%252Fsets%252Fnoir-sessions-on-progressive&amp;url=https%3A%2F%2Fsoundcloud.com%2Fprogressivebeats_radio%2Fnoir-session-by-lar3n-121115%3Fin%3Dlar3n%2Fsets%2Fnoir-sessions-on-progressive&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000136297994-y2tmdo-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
