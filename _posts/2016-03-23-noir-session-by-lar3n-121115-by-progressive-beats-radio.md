@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every 2nd Thursday of the month @ 9pm CET on Progressive Beats Radio
-datePublished: '2016-03-23T11:44:21.502Z'
-dateModified: '2016-03-23T11:44:17.136Z'
+datePublished: '2016-08-21T10:26:55.254Z'
+dateModified: '2016-03-24T16:31:06.781Z'
 author:
   - name: Progressive Beats Radio
     url: 'http://soundcloud.com/progressivebeats_radio'
@@ -52,7 +52,6 @@ app_links:
     type: ios
 title: Podcasts
 sourcePath: _posts/2016-03-23-noir-session-by-lar3n-121115-by-progressive-beats-radio.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
