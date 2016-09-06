@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lar3n]]></title>
-        <description><![CDATA[lar3n]]></description>
+        <title><![CDATA[Lar3n]]></title>
+        <description><![CDATA[Lar3n]]></description>
         <link>https://thegrid.ai/lar3n/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 11:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 14:27:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lar3n/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Discography ]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/lar3n/discography/index.html</link>
             <guid isPermaLink="false">864564f8-b186-436d-a27e-60e15ce32126</guid>
             <pubDate>Mon, 21 Mar 2016 23:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biography ]]></title>
-            <description><![CDATA[<article><h1>Biography </h1><p>This is a page to describe lar3n</p></article>]]></description>
-            <link>https://thegrid.ai/lar3n/biography/index.html</link>
-            <guid isPermaLink="false">95ca9bb5-eb49-462c-8990-92217d6b1951</guid>
-            <pubDate>Mon, 21 Mar 2016 22:59:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
